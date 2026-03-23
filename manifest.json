@@ -1,0 +1,16 @@
+{
+    "latest_version": "1.5.103",
+    "release_date": "2026-03-23",
+    "min_php_version": "8.0",
+    "changelog": "",
+    "download_url": "https://raw.githubusercontent.com/agencidev/bosse-updates-grw/main/releases/1.5.103.zip",
+    "signature": "",
+    "migrations": [
+        "1.5.50",
+        "1.5.75",
+        "1.5.78",
+        "1.5.79",
+        "1.5.102"
+    ],
+    "critical": false
+}
